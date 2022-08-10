@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrimerProyecto", "PrimerProyecto\PrimerProyecto.vbproj", "{B3A264E5-851F-484A-978E-9577B089A6C6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Condicionales", "Condicionales\Condicionales.vbproj", "{790316F4-83BE-4D1C-A806-2AFF59080BCC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Seleccion", "Seleccion\Seleccion.vbproj", "{53BFAFD6-3EBB-4106-AF7C-EC286D2B5027}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bucles", "Bucles\Bucles.vbproj", "{E97D0CFF-59C4-4044-AE67-2381BB2141E8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FuncionFecha", "FuncionFecha\FuncionFecha.vbproj", "{CE7D1B90-7E4B-4D55-A4CF-D366C9AE2BC4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FuncionesMathString", "FuncionesMathString\FuncionesMathString.vbproj", "{E909624B-2118-4B4C-A942-B70CF77ECA66}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProcedimientosFunciones", "ProcedimientosFunciones\ProcedimientosFunciones.vbproj", "{628A6D53-8516-4DD5-8914-E69B2B3BB8F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A264E5-851F-484A-978E-9577B089A6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A264E5-851F-484A-978E-9577B089A6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A264E5-851F-484A-978E-9577B089A6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A264E5-851F-484A-978E-9577B089A6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790316F4-83BE-4D1C-A806-2AFF59080BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790316F4-83BE-4D1C-A806-2AFF59080BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790316F4-83BE-4D1C-A806-2AFF59080BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790316F4-83BE-4D1C-A806-2AFF59080BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BFAFD6-3EBB-4106-AF7C-EC286D2B5027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BFAFD6-3EBB-4106-AF7C-EC286D2B5027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BFAFD6-3EBB-4106-AF7C-EC286D2B5027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BFAFD6-3EBB-4106-AF7C-EC286D2B5027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97D0CFF-59C4-4044-AE67-2381BB2141E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97D0CFF-59C4-4044-AE67-2381BB2141E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97D0CFF-59C4-4044-AE67-2381BB2141E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97D0CFF-59C4-4044-AE67-2381BB2141E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7D1B90-7E4B-4D55-A4CF-D366C9AE2BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7D1B90-7E4B-4D55-A4CF-D366C9AE2BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7D1B90-7E4B-4D55-A4CF-D366C9AE2BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7D1B90-7E4B-4D55-A4CF-D366C9AE2BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E909624B-2118-4B4C-A942-B70CF77ECA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E909624B-2118-4B4C-A942-B70CF77ECA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E909624B-2118-4B4C-A942-B70CF77ECA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E909624B-2118-4B4C-A942-B70CF77ECA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628A6D53-8516-4DD5-8914-E69B2B3BB8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628A6D53-8516-4DD5-8914-E69B2B3BB8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628A6D53-8516-4DD5-8914-E69B2B3BB8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628A6D53-8516-4DD5-8914-E69B2B3BB8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9943EE58-2236-4199-A989-3E338EB50DCF}
+	EndGlobalSection
+EndGlobal
