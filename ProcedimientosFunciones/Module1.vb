@@ -2,9 +2,13 @@
     Dim result As Double = 0
     Sub Main()
         Dim num As Integer = 2
+        Dim num1 As Double = 1.5
         'addittion(3, 4)
         ' Console.WriteLine(result)
         ' Console.WriteLine(powResult(3, 4))
+        Console.WriteLine(num)
+        Console.WriteLine(num1)
+
         Console.WriteLine(num)
         valorReferncia(num)
         Console.WriteLine(num)
