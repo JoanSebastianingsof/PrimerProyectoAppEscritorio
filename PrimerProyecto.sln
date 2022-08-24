@@ -21,6 +21,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Arreglos", "Arreglos\Arregl
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ArregloBidimensional", "ArregloBidimensional\ArregloBidimensional.vbproj", "{51BE0E70-B93A-40D9-BAE4-CB385331A760}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Coleeciones", "Coleeciones\Coleeciones.vbproj", "{9F429869-58B1-4763-9E82-B17927D67557}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POO", "POO\POO.vbproj", "{F9A1F401-7628-439D-9695-ACD07662AABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{51BE0E70-B93A-40D9-BAE4-CB385331A760}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51BE0E70-B93A-40D9-BAE4-CB385331A760}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51BE0E70-B93A-40D9-BAE4-CB385331A760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F429869-58B1-4763-9E82-B17927D67557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F429869-58B1-4763-9E82-B17927D67557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F429869-58B1-4763-9E82-B17927D67557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F429869-58B1-4763-9E82-B17927D67557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A1F401-7628-439D-9695-ACD07662AABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A1F401-7628-439D-9695-ACD07662AABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A1F401-7628-439D-9695-ACD07662AABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A1F401-7628-439D-9695-ACD07662AABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
