@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F9A1F401-7628-439D-9695-ACD07662AABD}</ProjectGuid>
+    <ProjectGuid>{B450D13C-9A88-4857-8B16-23F84CBEAA86}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>POO.Module1</StartupObject>
-    <RootNamespace>POO</RootNamespace>
-    <AssemblyName>POO</AssemblyName>
+    <StartupObject>MyPets.Module1</StartupObject>
+    <RootNamespace>MyPets</RootNamespace>
+    <AssemblyName>MyPets</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>POO.xml</DocumentationFile>
+    <DocumentationFile>MyPets.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>POO.xml</DocumentationFile>
+    <DocumentationFile>MyPets.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -69,9 +69,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="clases\Person.vb" />
-    <Compile Include="Interface\IOtro.vb" />
-    <Compile Include="Interface\IPersona.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -88,6 +85,11 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="MyClass\Cat.vb" />
+    <Compile Include="MyClass\Dog.vb" />
+    <Compile Include="MyClass\Person.vb" />
+    <Compile Include="MyClass\Pet.vb" />
+    <Compile Include="MyInterface\IPerson.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
