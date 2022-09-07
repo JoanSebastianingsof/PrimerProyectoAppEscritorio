@@ -27,6 +27,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POO", "POO\POO.vbproj", "{F
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MyPets", "MyPets\MyPets.vbproj", "{B450D13C-9A88-4857-8B16-23F84CBEAA86}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Inventario", "Inventario\Inventario.vbproj", "{ED07A52F-93D6-4E83-B06F-A031C32D48F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{B450D13C-9A88-4857-8B16-23F84CBEAA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B450D13C-9A88-4857-8B16-23F84CBEAA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B450D13C-9A88-4857-8B16-23F84CBEAA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED07A52F-93D6-4E83-B06F-A031C32D48F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED07A52F-93D6-4E83-B06F-A031C32D48F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED07A52F-93D6-4E83-B06F-A031C32D48F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED07A52F-93D6-4E83-B06F-A031C32D48F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
