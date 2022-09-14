@@ -10,15 +10,15 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Inventario")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("HP Inc.")>
+<Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("Inventario")>
-<Assembly: AssemblyCopyright("Copyright © HP Inc. 2022")>
+<Assembly: AssemblyCopyright("Copyright ©  2022")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-<Assembly: Guid("24c88a0a-6d78-4584-8622-9b93938287a1")>
+<Assembly: Guid("650a6869-1061-4314-8f45-d73e61d2de8e")>
 
 ' La información de versión de un ensamblado consta de los cuatro valores siguientes:
 '
